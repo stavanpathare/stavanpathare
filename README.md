@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently building [CollegeFind](https://collegefind.netlify.app)
 - 🌱 I’m learning JavaScript, React and Data Structures
-- 📫 Reach me at: stavan@example.com
+- 📫 Reach me at: stavanpathare@gmail.com
 - 🖥️ My Portfolio: [stavanprofile.netlify.app](https://stavanprofile.netlify.app)
 

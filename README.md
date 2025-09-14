@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Projects  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=expense-tracker-frontend&theme=tokyonight)](https://github.com/stavanpathare/expense-tracker-frontend)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight)](https://github.com/stavanpathare/spent-nest-frontend)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=collegefind&theme=tokyonight)](https://github.com/stavanpathare/collegefind)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=weather&theme=tokyonight)](https://github.com/stavanpathare/weather)  
 

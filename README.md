@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stavanpathare&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavanpathare&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stavanpathare&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavanpathare&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Projects  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight)](https://github.com/stavanpathare/spent-nest-frontend)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight&cache_seconds=86400)](https://github.com/stavanpathare/spent-nest-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=collegefind&theme=tokyonight)](https://github.com/stavanpathare/collegefind)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=weather&theme=tokyonight)](https://github.com/stavanpathare/weather)  
 

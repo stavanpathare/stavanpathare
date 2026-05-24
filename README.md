@@ -1,57 +1,182 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Stavan Pathare</h1>
-<h3 align="center">🚀 Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
+<!-- ========================================= -->
+<!--               HEADER                     -->
+<!-- ========================================= -->
+
+<div align="center">
+
+# Hi 👋, I'm Stavan Pathare
+
+### 🚀 Full-Stack Developer • AI Enthusiast • Computer Science Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;AI+%26+SaaS+Builder;Open+Source+Learner;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- ========================================= -->
+<!--               ABOUT                      -->
+<!-- ========================================= -->
+
+## 🧠 About Me
+
+- 🎓 B.Sc. Computer Science Student
+- 💻 Passionate about Full-Stack Web Development
+- 🚀 Building SaaS, AI, and Productivity Applications
+- 🌱 Currently learning:
+  - Advanced MERN Stack
+  - AI Integrations
+  - Backend Architecture
+- ⚡ Love building real-world projects and deploying them
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stavanpathare&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavanpathare&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
-</p>
+<!-- ========================================= -->
+<!--             TECH STACK                   -->
+<!-- ========================================= -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=stavanpathare&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-## 🚀 Featured Projects  
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=js,python,c,html,css" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight&cache_seconds=86400)](https://github.com/stavanpathare/spent-nest-frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=collegefind&theme=tokyonight)](https://github.com/stavanpathare/collegefind)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=weather&theme=tokyonight)](https://github.com/stavanpathare/weather)  
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nodejs,express,react" />
 
----
+### 🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
-## 📈 Contribution Activity  
-[![Stavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stavanpathare&theme=tokyo-night)](https://github.com/stavanpathare/github-readme-activity-graph)
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 
----
-
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/stavan-pathare-42b494378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/stavan_pathare?igsh=YjYwOHZ1MHVrdDk1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://galaxyprofile.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-## ✨ Fun Extras  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=stavanpathare)  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ========================================= -->
+<!--             GITHUB STATS                 -->
+<!-- ========================================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stavanpathare&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stavanpathare&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" /> -->
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=stavanpathare&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
 
 ---
+
+<!-- ========================================= -->
+<!--           FEATURED PROJECTS              -->
+<!-- ========================================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight)](https://github.com/stavanpathare/spent-nest-frontend)
+
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=collegefind&theme=tokyonight)](https://github.com/stavanpathare/collegefind)
+
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=Nextralis-Frontend&theme=tokyonight)](https://github.com/stavanpathare/Nextralis-Frontend)
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            CONTRIBUTIONS                 -->
+<!-- ========================================= -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stavanpathare&theme=tokyo-night&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--               TROPHIES                   -->
+<!-- ========================================= -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=stavanpathare&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--              CONNECT                     -->
+<!-- ========================================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/stavan-pathare-42b494378">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/stavan_pathare?igsh=YjYwOHZ1MHVrdDk1">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://galaxyprofile.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--               VISITORS                   -->
+<!-- ========================================= -->
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=stavanpathare.stavanpathare" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--             RANDOM QUOTE                 -->
+<!-- ========================================= -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--               FOOTER                     -->
+<!-- ========================================= -->
+
+<div align="center">
+
+### 💡 “Code. Build. Deploy. Repeat.”
+
+</div>

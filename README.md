@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=stavanpathare&theme=tokyonight&hide_border=true&border_radius=15" />
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=stavanpathare)
 
 </div>
 
@@ -85,11 +85,11 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight)](https://github.com/stavanpathare/spent-nest-frontend)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend)](https://github.com/stavanpathare/spent-nest-frontend)
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=collegefind&theme=tokyonight)](https://github.com/stavanpathare/collegefind)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=collegefind)](https://github.com/stavanpathare/collegefind)
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=Nextralis-Frontend&theme=tokyonight)](https://github.com/stavanpathare/Nextralis-Frontend)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=Nextralis-Frontend)](https://github.com/stavanpathare/Nextralis-Frontend)
 
 </div>
 
@@ -103,21 +103,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stavanpathare&theme=tokyo-night&hide_border=true&radius=16" />
-
-</div>
-
----
-
-<!-- ========================================= -->
-<!--               TROPHIES                   -->
-<!-- ========================================= -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=stavanpathare&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stavanpathare&theme=hide_border=true&radius=16" />
 
 </div>
 
@@ -165,7 +151,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 
 </div>
 

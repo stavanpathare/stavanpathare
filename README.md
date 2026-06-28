@@ -88,7 +88,7 @@
 <td>
 
 <a href="https://github.com/stavanpathare/spent-nest-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend" />
 </a>
 
 </td>
@@ -96,7 +96,7 @@
 <td>
 
 <a href="https://github.com/stavanpathare/Unisummarizer-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=Unisummarizer-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=Unisummarizer-frontend" />
 </a>
 
 </td>
@@ -106,7 +106,7 @@
 <td>
 
 <a href="https://github.com/stavanpathare/Nextralis-Frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=Nextralis-Frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=Nextralis-Frontend" />
 </a>
 
 </td>
@@ -114,7 +114,7 @@
 <td>
 
 <a href="https://github.com/stavanpathare/collegefind">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=collegefind&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=collegefind" />
 </a>
 
 </td>

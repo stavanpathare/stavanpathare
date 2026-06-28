@@ -83,15 +83,43 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend)](https://github.com/stavanpathare/spent-nest-frontend)
+<a href="https://github.com/stavanpathare/spent-nest-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=spent-nest-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=collegefind)](https://github.com/stavanpathare/collegefind)
+</td>
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=stavanpathare&repo=Nextralis-Frontend)](https://github.com/stavanpathare/Nextralis-Frontend)
+<td>
 
-</div>
+<a href="https://github.com/stavanpathare/Unisummarizer-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=Unisummarizer-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="https://github.com/stavanpathare/Nextralis-Frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=Nextralis-Frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+</td>
+
+<td>
+
+<a href="https://github.com/stavanpathare/collegefind">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=stavanpathare&repo=collegefind&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
